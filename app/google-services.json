@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459732517642",
+    "project_id": "keep-155b2",
+    "storage_bucket": "keep-155b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459732517642:android:76048ae301e343f8efb0f3",
+        "android_client_info": {
+          "package_name": "com.example.secretkepp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459732517642-f0s8rsft269vf88gq5j6rasdqga10d1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY3OGex8C0m02cSo1cBRUb2akIaioet6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459732517642-f0s8rsft269vf88gq5j6rasdqga10d1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
